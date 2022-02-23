@@ -1,7 +1,7 @@
 # Hey! 👋
 ## Welcome to my Github profile!
 
-#### My name is Gabriel Correa AKA Gaba. I'm an Computer Engineering student, currently at the 9th period. I used to work with IT Infrastucture and recently began the journey towards Software Engineering. 
+#### My name is Gabriel Correa AKA Gaba. I'm a Computer Engineering student, currently at the 9th period. I used to work with IT Infrastucture and recently began the journey towards Software Engineering. 
 
 #### I've became very passionate about programming as I was going through the college years. Started coding with basic javascript, and then mainly focused on python to backend.
 
