@@ -7,8 +7,8 @@
 
 #### After I had achieved a reasonable knowledge at python, I started to study other technologies, focusing at creating everything from backend to frontend, as to say, being a truly Software Engineer.
 
-- 🔭 I’m currently working with RPA
-- 🌱 I’m currently learning Data Structures, Algorithms and Frontend programming
+- 🔭 I’m currently working with SRE
+- 🌱 I’m currently learning Async programming and Frontend programming
 
 ### Tools and Technologies
 <div>
