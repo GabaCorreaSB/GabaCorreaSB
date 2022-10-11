@@ -1,13 +1,13 @@
 # Hey! 👋
 ## Welcome to my Github profile!
 
-#### My name is Gabriel Correa AKA Gaba. I'm a Computer Engineering student, currently at the 9th period. I used to work with IT Infrastucture and recently began the journey towards Software Engineering. 
+#### My name is Gabriel Correa AKA Gaba. I'm a Computer Engineering student, currently at the 10th and last period. I used to work as a Networking Analyst, with focus on LGPD and automating local infrastructure. When I started to apply infrastructure as code I had the urge to start my journey towards Software Engineering, to be able to learn more about the life of an Engineer. 
 
-#### I've became very passionate about programming as I was going through the college years. Started coding with basic javascript, and then mainly focused on python to backend.
+#### I've became very passionate about programming as I was going through college years. Started coding in basic college assignments but in no time I began to automate most of my duties as a Networking Analyst, which helped me go after learning how to properly code and how to make a life out of it. Began with C++ for IoT, and then got a feeling for shell scripting, which led me to python. ;D
 
-#### After I had achieved a reasonable knowledge at python, I started to study other technologies, focusing at creating everything from backend to frontend, as to say, being a truly Software Engineer.
+#### After I had achieved a reasonable understanding at python, shell and C++ I started to create projects, some of which can be found here at my github. After I had coded only for personal projects I did what I wanted and started my life as a Software Engineer. 
 
-- 🔭 I’m currently working with SRE
+- 🔭 I’m currently working as Software Engineer
 - 🌱 I’m currently learning Async programming and Frontend programming
 
 ### Tools and Technologies
