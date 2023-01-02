@@ -1,7 +1,7 @@
 # Hey! 👋
 ## Welcome to my Github profile!
 
-#### My name is Gabriel Correa AKA Gaba. I'm a Computer Engineering student, currently at the 10th and last period. I used to work as a Networking Analyst, with focus on LGPD and automating local infrastructure. When I started to apply infrastructure as code I had the urge to start my journey towards Software Engineering, to be able to learn more about the life of an Engineer. 
+#### My name is Gabriel Correa AKA Gaba and I'm a Software Engineer. I used to work as a Networking Analyst, with focus on LGPD and automating local infrastructure. When I started to apply infrastructure as code I had the urge to start my journey towards Software Engineering, to be able to learn more about the life of an Engineer. 
 
 #### I've became very passionate about programming as I was going through college years. Started coding in basic college assignments but in no time I began to automate most of my duties as a Networking Analyst, which helped me go after learning how to properly code and how to make a life out of it. Began with C++ for IoT, and then got a feeling for shell scripting, which led me to python. ;D
 
@@ -19,11 +19,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+
 </div>
 
 ### Tools I'm Learning
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
