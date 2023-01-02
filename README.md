@@ -1,11 +1,11 @@
 # Hey! 👋
 ## Welcome to my Github profile!
 
-#### My name is Gabriel Correa AKA Gaba and I'm a Software Engineer. I used to work as a Networking Analyst, with focus on LGPD and automating local infrastructure. When I started to apply infrastructure as code I had the urge to start my journey towards Software Engineering, to be able to learn more about the life of an Engineer. 
+#### My name is Gabriel Correa AKA Gaba and I'm a Software Engineer. I used to work as a Networking Analyst, with focus on LGPD and automating local infrastructure. When I started working on infrastructure as code something just clicked and I had to start my journey towards Software Engineering, to be able to learn more about the life of an Engineer and of course learning to properly code. 
 
 #### I've became very passionate about programming as I was going through college years. Started coding in basic college assignments but in no time I began to automate most of my duties as a Networking Analyst, which helped me go after learning how to properly code and how to make a life out of it. Began with C++ for IoT, and then got a feeling for shell scripting, which led me to python. ;D
 
-#### After I had achieved a reasonable understanding at python, shell and C++ I started to create projects, some of which can be found here at my github. After I had coded only for personal projects I did what I wanted and started my life as a Software Engineer. 
+#### After achieving a reasonable understanding at python, shell and C++ I started to create projects, some of which can be found here at my github.
 
 - 🔭 I’m currently working as a Software Engineer
 - 🌱 I’m currently learning Async programming and Frontend programming
