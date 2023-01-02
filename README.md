@@ -7,7 +7,7 @@
 
 #### After I had achieved a reasonable understanding at python, shell and C++ I started to create projects, some of which can be found here at my github. After I had coded only for personal projects I did what I wanted and started my life as a Software Engineer. 
 
-- 🔭 I’m currently working as Software Engineer
+- 🔭 I’m currently working as a Software Engineer
 - 🌱 I’m currently learning Async programming and Frontend programming
 
 ### Tools and Technologies
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="40" height="40"/>
+
 
 </div>
 
