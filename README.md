@@ -36,7 +36,12 @@
 <div>
   <a href="https://www.linkedin.com/in/gabriel-correa-dos-santos-barbosa-568b93158/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
- 
+
+### Try Hack Me:
+<div>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/GabrielCorrea.png" alt="TryHackMe">
+</div>
+
 ##### Stats
 <div>
 <a href="https://github.com/GabaCorreaSB">
