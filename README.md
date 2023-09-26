@@ -30,6 +30,7 @@
 ### Tools I'm Learning
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="40" height="40"/>
 </div>
 
 ### Contact Me:
