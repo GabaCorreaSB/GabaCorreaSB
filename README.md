@@ -8,7 +8,7 @@
 #### Having developed a solid foundation in Python, shell scripting, and C++, I began to channel my knowledge into creating projects. These projects reflect my growing expertise and can be viewed on my GitHub profile, showcasing a blend of my academic learnings and professional experiences in the field of Software Engineering.
 
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning Async programming and Frontend programming
+- 🌱 I’m currently learning AI Programming and LLM
 
 ### Tools and Technologies
 <div>
