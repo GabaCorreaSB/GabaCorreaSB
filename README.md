@@ -1,14 +1,14 @@
 # Hey! 👋
 ## Welcome to my Github profile!
 
-#### My name is Gabriel Correa, also known as Gaba, and I am a Software Engineer. Previously, I worked as a Network Analyst, specializing in LGPD (General Data Protection Law) and the automation of local infrastructure. My foray into infrastructure as code was a pivotal moment, sparking my interest in Software Engineering. This shift was driven by a desire to delve deeper into the engineering lifestyle and to hone my coding skills.
+#### My name is Gabriel Correa, but you can call me Gaba. I’m a Software Engineer who started out as a Network Analyst, working with LGPD (General Data Protection Law) and automating local infrastructure. It was my initial foray into infrastructure as code that really inspired me to dive deeper into Software Engineering and sharpen my coding abilities.
 
-#### My passion for programming ignited during my college years. I initially dabbled in coding for basic college assignments, but it wasn't long before I started using these skills to automate many tasks in my Network Analyst role. This practical application of coding in a professional context propelled me towards a more profound understanding of software development. My journey began with C++ for IoT (Internet of Things) projects, which naturally led me to explore shell scripting and eventually Python.
+#### My passion for programming began back in college. What started as simple coding assignments soon evolved into automating tasks in my role as a Network Analyst, giving me a practical understanding of software development. I kicked off my journey with C++ for IoT (Internet of Things) projects, eventually branching out into shell scripting and, finally, Python.
 
-#### Having developed a solid foundation in Python, shell scripting, and C++, I began to channel my knowledge into creating projects. These projects reflect my growing expertise and can be viewed on my GitHub profile, showcasing a blend of my academic learnings and professional experiences in the field of Software Engineering.
+#### These days, I’m putting my skills into practice through various projects you’ll find here on my GitHub. Each one reflects a blend of my academic foundation and hands-on experience, and I’m always looking for new ways to push my abilities further. Enjoy exploring!
 
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning AI Programming and LLM
+- 🌱 I’m currently learning AI Programming, LLM, Cybersecurity and Privacy
 
 ### Tools and Technologies
 <div>
