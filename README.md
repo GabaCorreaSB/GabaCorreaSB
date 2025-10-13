@@ -1,65 +1,115 @@
-# Hey! 👋
-## Welcome to my Github profile!
 
-#### My name is Gabriel Correa, but you can call me Gaba. I’m a Software Engineer who started out as a Network Analyst, working with LGPD (General Data Protection Law) and automating local infrastructure. It was my initial foray into infrastructure as code that really inspired me to dive deeper into Software Engineering and sharpen my coding abilities.
+<h1 align="center">Hey there! 👋 I'm Gabriel Correa (Gaba)</h1>
 
-#### My passion for programming began back in college. What started as simple coding assignments soon evolved into automating tasks in my role as a Network Analyst, giving me a practical understanding of software development. I kicked off my journey with C++ for IoT (Internet of Things) projects, eventually branching out into shell scripting and, finally, Python.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-correa-dos-santos-barbosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:gabriel.correasb@protonmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/GabaCorreaSB"><img src="https://img.shields.io/github/followers/GabaCorreaSB?label=Follow&style=for-the-badge"></a>
+</p>
 
-#### These days, I’m putting my skills into practice through various projects you’ll find here on my GitHub. Each one reflects a blend of my academic foundation and hands-on experience, and I’m always looking for new ways to push my abilities further. Enjoy exploring!
+---
 
-- 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning AI Programming, LLM, Cybersecurity and Privacy
+### 🧑‍💻 About Me
 
-### Tools and Technologies
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+Hi! I’m **Gaba**, a Brazilian **Software Engineer** and **Cybersecurity enthusiast** currently based in **Winter Garden, FL** 🇺🇸.
 
+My journey began as a **Network Analyst** working with **data protection (LGPD)** and automating infrastructure tasks.  
+That early experience sparked my passion for **software engineering**, **IoT**, and **cybersecurity** — and today I’m building tools that merge those worlds.
 
-</div>
+---
 
-### Tools I'm Learning
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="40" height="40"/>
-</div>
+### 🎓 Currently
 
-### Contact Me:
-<div>
-  <a href="https://www.linkedin.com/in/gabriel-correa-dos-santos-barbosa-568b93158/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
+- 🎓 **Master’s Student in Cybersecurity Management** @ *University of Fairfax (VA)*  
+  Focused on **AI security**, **LLMs**, **network protection**, and **privacy frameworks**.  
+- 💡 Working on personal and open-source projects that combine **IoT**, **automation**, and **threat analysis**.  
+- 🧠 Preparing for the **CISSP certification** and deepening my understanding of modern security methodologies.
 
-### Try Hack Me:
-<div>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/GabrielCorrea.png" alt="TryHackMe">
-</div>
+---
 
-##### Stats
-<div>
-<a href="https://github.com/GabaCorreaSB">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabaCorreaSB&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabaCorreaSB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<!--
-**GabaCorreaSB/GabaCorreaSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **Languages** | Python 🐍, Go ⚙️, C++, Bash |
+| **Frameworks** | FastAPI, Vue 3, Jenkins, Docker |
+| **DevOps & Infra** | RabbitMQ, Redis, Nginx, GCP, Backblaze |
+| **IoT & Embedded** | LoRaWAN, ESP32, Raspberry Pi, Arduino |
+| **Security** | LGPD, DLP, Pfsense, SonicWall, Security+ knowledge |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects Spotlight
+
+🔹 **[LoR4Sun](https://github.com/Data-Tech-Team/Lor4sun)** — LoRaWAN board for monitoring photovoltaic systems, with real-time web dashboards.  
+🔹 **[Coin Fetcher](https://github.com/GabaCorreaSB/coin-fetcher)** — Go-based microservice fetching crypto data from CoinGecko API.  
+🔹 **[FeedWeb](https://github.com/GabaCorreaSB/Feed-web)** — Real-time currency tick visualization and analytics web platform.
+
+---
+
+### 🌱 What I’m Exploring
+
+- 🧠 **AI and Large Language Models (LLMs)** in security contexts  
+- 🔐 **Offensive/Defensive cybersecurity tools** for IoT and networks  
+- ☁️ **Cloud-native microservices** for secure data pipelines  
+- ⚙️ **Automation and Infrastructure as Code (IaC)**  
+
+---
+
+### 🧩 Beyond Code
+
+When I’m not building or studying, you’ll probably find me:
+- Designing **Raspberry Pi** or **ESP32** pentesting tools  
+- Writing for my upcoming **cybersecurity and innovation blog**  
+- Experimenting with **trading system optimizations**  
+- Or just playing games with a cup of tea 🍵🎮  
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabaCorreaSB&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabaCorreaSB&layout=compact&theme=radical" height="165">
+</p>
+
+---
+
+### 💬 Dynamic Typing Effect
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+in+Progress+🔐;IoT+and+Automation+Builder+⚙️;Python%2C+Go%2C+and+FastAPI+Developer+🐍;Always+Learning+and+Innovating+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 🕹️ Fun Fact
+
+> "Automation without security is chaos;  
+> security without automation is stagnation." – *Gaba*
+
+---
+
+### 📫 Let’s Connect!
+
+📧 **Email:** [gabriel.correasb@protonmail.com](mailto:gabriel.correasb@protonmail.com)  
+💼 **LinkedIn:** [gabriel-correa-dos-santos-barbosa](https://www.linkedin.com/in/gabriel-correa-dos-santos-barbosa)  
+💻 **GitHub:** [@GabaCorreaSB](https://github.com/GabaCorreaSB)
+
+---
+
+<p align="center">⭐️ Thanks for stopping by — feel free to explore my repositories! ⭐️</p>
+
+---
+
+<!-- Visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabaCorreaSB&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+<!-- Contribution snake animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GabaCorreaSB/GabaCorreaSB/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
