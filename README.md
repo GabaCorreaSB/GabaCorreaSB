@@ -1,6 +1,16 @@
 
 <h1 align="center">Hey there! 👋 I'm Gabriel Correa (Gaba)</h1>
 
+---
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+in+Progress+🔐;IoT+and+Automation+Builder+⚙️;Python%2C+Go%2C+and+FastAPI+Developer+🐍;Always+Learning+and+Innovating+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-correa-dos-santos-barbosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:gabriel.correasb@protonmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
@@ -72,18 +82,6 @@ When I’m not building or studying, you’ll probably find me:
   <img src="https://github-readme-stats.vercel.app/api?username=GabaCorreaSB&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabaCorreaSB&layout=compact&theme=radical" height="165">
 </p>
-
----
-
-### 💬 Dynamic Typing Effect
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EF7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+in+Progress+🔐;IoT+and+Automation+Builder+⚙️;Python%2C+Go%2C+and+FastAPI+Developer+🐍;Always+Learning+and+Innovating+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
----
 
 ### 🕹️ Fun Fact
 
