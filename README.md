@@ -21,10 +21,10 @@
 
 ### 🧑‍💻 About Me
 
-Hi! I’m **Gaba**, a Brazilian **Software Engineer** and **Cybersecurity enthusiast** currently based in **Winter Garden, FL** 🇺🇸.
+Hi! I’m **Gaba**, a Brazilian **Software Engineer** and **Cybersecurity enthusiast** currently based in **Winter Garden, FL**.
 
 My journey began as a **Network Analyst** working with **data protection (LGPD)** and automating infrastructure tasks.  
-That early experience sparked my passion for **software engineering**, **IoT**, and **cybersecurity** — and today I’m building tools that merge those worlds.
+That early experience sparked my passion for **software engineering**, **IoT**, and **cybersecurity** and today I’m building tools that merge those worlds.
 
 ---
 
@@ -72,7 +72,7 @@ When I’m not building or studying, you’ll probably find me:
 - Designing **Raspberry Pi** or **ESP32** pentesting tools  
 - Writing for my upcoming **cybersecurity and innovation blog**  
 - Experimenting with **trading system optimizations**  
-- Or just playing games with a cup of tea 🍵🎮  
+- Or just playing games with a cup of tea (can't have tea no more tho so coffee it is) 🍵🎮  
 
 ---
 
@@ -98,7 +98,7 @@ When I’m not building or studying, you’ll probably find me:
 
 ---
 
-<p align="center">⭐️ Thanks for stopping by — feel free to explore my repositories! ⭐️</p>
+<p align="center">⭐️ Thanks for stopping by feel free to explore my repositories! ⭐️</p>
 
 ---
 
