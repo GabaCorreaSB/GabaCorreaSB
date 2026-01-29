@@ -103,7 +103,7 @@ When I’m not building or studying, you’ll probably find me:
 ---
 <!-- Visitor counter -->
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GabaCorreaSB)
 </p>
 
 <!-- Contribution snake animation -->
