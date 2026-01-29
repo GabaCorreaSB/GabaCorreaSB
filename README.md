@@ -101,7 +101,9 @@ When I’m not building or studying, you’ll probably find me:
 <p align="center">⭐️ Thanks for stopping by feel free to explore my repositories! ⭐️</p>
 
 ---
-
+<p>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=128123" style='border:none;'></iframe>
+</p>
 <!-- Visitor counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GabaCorreaSB&style=flat-square&color=blue" alt="Profile views"/>
